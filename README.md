@@ -5,3 +5,4 @@ tik
 bom
 k
 
+jj
